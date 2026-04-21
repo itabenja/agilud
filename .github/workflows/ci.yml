@@ -37,7 +37,7 @@ jobs:
 
       - name: Run Newman Tests
         run: |
-          newman run postman/your_collection.json \
-          --environment postman/your_environment.json \
+          newman run postman/ECommerceIntegrationTests.postman_collection.json \
+          --environment postman/ECommerceEnvironment_updated.postman_environment.json \
           --reporters cli,junit \
           --reporter-junit-export newman-report.xml
