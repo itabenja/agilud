@@ -1,0 +1,64 @@
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.exe
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.deps.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.runtimeconfig.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.pdb
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.csproj.AssemblyReference.cache
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.AssemblyInfoInputs.cache
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.AssemblyInfo.cs
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PaymentWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentWebAPI.props
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentWebAPI.props
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentWebAPI.props
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\scopedcss\bundle\PaymentWebAPI.styles.css
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentW.521C3C30.Up2Date
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\refint\PaymentWebAPI.dll
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.pdb
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.genruntimeconfig.cache
+C:\Users\moal\source\repos\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\ref\PaymentWebAPI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.exe
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.deps.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.runtimeconfig.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\PaymentWebAPI.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.csproj.AssemblyReference.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.AssemblyInfoInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.AssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PaymentWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentWebAPI.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentWebAPI.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentWebAPI.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\scopedcss\bundle\PaymentWebAPI.styles.css
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentW.521C3C30.Up2Date
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\refint\PaymentWebAPI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\PaymentWebAPI.genruntimeconfig.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning Foreår 2026\Agil udvikling\Module 7\ShoppingMicroServicesApp\PaymentWebAPI\obj\Debug\net8.0\ref\PaymentWebAPI.dll
