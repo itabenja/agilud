@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using PaymentWebAPI.Models;
 using PaymentWebAPI.Repositories;
 
@@ -37,7 +37,7 @@ namespace PaymentWebAPI.Controllers
         public IActionResult CheckStatus(int id)
         {
             bool success = _repo.IsPaymentSuccessful(id);
-            return Ok(new { paymentId = id, success });
+            return Ok(new { success });
         }
     }
 }

@@ -1,0 +1,43 @@
+name: API Integration Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  api-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Newman
+        run: npm install -g newman
+
+      - name: Build Solution
+        run: dotnet build ShoppingMicroServicesApp.sln --configuration Release
+
+      - name: Start Web APIs
+        run: |
+          dotnet run --project UsersWebAPI/UsersWebAPI.csproj &
+          dotnet run --project OrdersWebAPI/OrdersWebAPI.csproj &
+          dotnet run --project PaymentsWebAPI/PaymentsWebAPI.csproj &
+          echo "Waiting for APIs to start..."
+          sleep 20
+
+      - name: Run Newman Tests
+        run: |
+          newman run postman/your_collection.json \
+          --environment postman/your_environment.json \
+          --reporters cli,junit \
+          --reporter-junit-export newman-report.xml

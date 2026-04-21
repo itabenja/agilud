@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using OrdersWebAPI.Models;
 using OrdersWebAPI.Repositories;
 using System.Text.Json;
@@ -58,7 +58,6 @@ namespace OrdersWebAPI.Controllers
 
         private class PaymentStatusDto
         {
-            public int PaymentId { get; set; }
             public bool Success { get; set; }
         }
     }
